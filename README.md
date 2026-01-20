@@ -1,1 +1,1 @@
-# ___'s UX Journal
+# Kamrin's UX Journal
