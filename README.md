@@ -2,5 +2,5 @@
 
 My name is Kamrin Bains and I am a 3rd year at Chico State.
 
-<img src="asset/image.png" alt="A picture of Kamrin">
+<img src="asset/image.png" width="50%">
 
